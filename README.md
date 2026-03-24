@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Max! Welcome! 🧼
+This is the page Soapboxes! my name is Maksim, welcome! 🧼
 I learn Java at [Job4j](https://job4j.ru/) ☕
 
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=Soapboxes&hide=stars,prs,issues,contribs)
